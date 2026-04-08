@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "data-visualization": {
+      "command": "npx",
+      "args": ["-y", "@mcpmarket/data-viz-skill"],
+      "env": {
+        "HEATMAP_DEFAULT_CMAP": "viridis",
+        "OUTPUT_DPI": "300"
+      }
+    }
+  }
+}

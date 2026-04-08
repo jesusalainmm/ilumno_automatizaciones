@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source \"c:/Users/jesus/Desktop/Ilumno/Ley no moslestar/.venv/Scripts/activate\" && python --version && pip show playwright openpyxl 2>&1)",
+      "Bash(source \"c:/Users/jesus/Desktop/Ilumno/Ley no moslestar/.venv/Scripts/activate\" && python \"C:/Users/jesus/Desktop/Ilumno/search-content/search_content.py\" --urls \"https://example.com\" --phrases \"Example Domain\" 2>&1)"
+    ]
+  }
+}
